@@ -1,5 +1,5 @@
 #! /bin/bash
 clear; 
-echo" Hello Word";
+echo "Hello Word";
 exit;
 
